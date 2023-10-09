@@ -1,0 +1,169 @@
+body {
+  font-family: Poppins;
+}
+
+.navbar {
+  padding: 8px 0px;
+}
+
+.navbar-brand {
+  color: rgba(47, 47, 47, 0.98);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+span {
+  color: rgba(255, 155, 80, 0.98);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.navbar-nav {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.nav-link {
+  margin: 0px 15px;
+}
+
+.btn-primary {
+  border: none;
+}
+
+.btn {
+  border-radius: 10px;
+  background: rgba(255, 155, 80, 0.98);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.btn-information {
+  border-radius: 10px;
+  background-color: rgba(255, 155, 80, 0.98);
+  font-size: 16px;
+  font-weight: 500px;
+  color: aliceblue;
+}
+
+.btn-consultation {
+  border-radius: 3px;
+  padding: 5px;
+  color: azure;
+}
+
+.btn:hover {
+  color: rgba(255, 255, 255, 0.98);
+  background: rgba(47, 47, 47, 0.98);
+}
+
+span2 {
+  color: rgba(255, 155, 80, 0.98);
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+p {
+  text-align: justify;
+}
+
+.form,
+.form input {
+  border-radius: 10px;
+  border-color: #ff9b50;
+}
+
+.form h3 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+label {
+  padding: 0px 10px 5px;
+  font-weight: 300;
+}
+
+.banner {
+  width: 250px;
+  height: auto;
+}
+
+.card {
+  border-color: #ff9b50;
+}
+
+.content h2 {
+  font-size: 40px;
+}
+
+.doctor h2 {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.doctor-card {
+  gap: 70px;
+}
+
+.doctor-card h3 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.card-body {
+  gap: 72px;
+}
+
+.d-inline {
+  color: white;
+}
+
+footer {
+  background-color: #ff9b50;
+  margin-top: 50px;
+  min-height: 400px;
+}
+
+.footer .container .row {
+  padding-top: 50px;
+}
+
+.container .row .menu h4 {
+  color: #161615;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.container .row .social-media img {
+  margin-right: 45px;
+}
+
+.container .credits p {
+  color: #3b3b3b;
+  font-weight: 300;
+  margin: 30px 0px;
+  padding-bottom: 50px;
+}
+/* chat */
+.tab {
+  background-color: #fee8d7;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.room {
+  background-color: #4a4a4a;
+}
